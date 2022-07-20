@@ -33,4 +33,4 @@ steps:
 
   - script: |
       echo "Scan realizado com sucesso"
-    displayName: "Scan finished
+    displayName: "Scan finished"
